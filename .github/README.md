@@ -22,7 +22,7 @@
    ```
 4. **Installing Node**
    ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
+   curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
    ```
 5. **Clone the Repository**
    ```bash
@@ -34,19 +34,19 @@
    ```
 7. **Create .env  with sample.env**
    ```bash
-   cp sample.env .env
+   vi sample.env
    ```
    - Edit .env with your vars
 8. **Editing Vars:**
    ```bash
-   vi .env
+   mv sample.env .env
    ```
    - Edit .env with your values.
    - Press `I` button on keyboard to start editing.
    - Press `Ctrl + C`  once you are done with editing vars and type `:wq` to save .env or `:qa` to exit editing.
 9. **Installing tmux**
     ```bash
-    sudo apt install tmux -y && tmux
+    sudo apt install tmux && tmux
     ```
 10. **Run the Bot**
     ```bash
