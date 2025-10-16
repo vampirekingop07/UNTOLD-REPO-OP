@@ -2,7 +2,7 @@
     ──「 ᴍᴏᴏɴ 🌙 ᴍᴜsɪᴄ 」──
 
     ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MOON-CODES/leharmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vampirebotsntwrk/VAMPIRE-MUSIC)
 ---
 
 ### 🔧 Quick Setup
@@ -26,7 +26,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/MOON-CODES/leharmusic && cd leharmusic
+   git clone https://github.com/vampirebotsntwrk/VAMPIRE-MUSIC && cd VAMPIRE-MUSIC
    ```
 6. **Install Requirements**
    ```bash
