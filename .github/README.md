@@ -2,7 +2,7 @@
     ──「 ᴍᴏᴏɴ 🌙 ᴍᴜsɪᴄ 」──
 
     ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vampirebotsntwrk/VAMPIRE-MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vampirekingop07/UNTOLD-REPO-OP)
 ---
 
 ### 🔧 Quick Setup
@@ -26,7 +26,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/vampirebotsntwrk/VAMPIRE-MUSIC && cd VAMPIRE-MUSIC
+   git clone https://github.com/vampirekingop07/UNTOLD-REPO-OP && cd UNTOLD-REPO-OP
    ```
 6. **Install Requirements**
    ```bash
